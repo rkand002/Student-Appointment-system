@@ -1,4 +1,3 @@
-Working Model(http://qav2.cs.odu.edu/Dev_karan_StudentAppointmentSystem/home.php)
 
 Student Appointment system is the web application developed for ODU computer science department. This application helps the CS faculty to appoint students under them.
 Various roles such as faculty, office staff interact with the system for the student to be appointed.
